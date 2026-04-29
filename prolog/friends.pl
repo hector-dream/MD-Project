@@ -234,4 +234,3 @@ episodio(the_one_where_estelle_dies, 10, 15, 2004, 22, gary_halvorson, 8.5, 2771
 episodio(the_one_with_rachels_going_away_party, 10, 16, 2004, 22, gary_halvorson, 8.9, 3141).
 episodio(the_last_one_part_1, 10, 17, 2004, 30, kevin_bright, 9.5, 6221).
 episodio(the_last_one_part_2, 10, 18, 2004, 30, kevin_bright, 9.7, 10381).
-
