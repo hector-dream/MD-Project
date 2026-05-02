@@ -73,7 +73,7 @@ variancia_temporada(Temporada, V) :-
     variancia(Lista, Media, V).
 
 ### query: ordenando_medias_anos(MelhoresAnos).
-### query: ordenando_mais_votados(Votos)
+### query: ordenando_mais_votados(Votos).
 ### query: setof((T - N - V), medias_por_temporada(T, N, V), Lista).
-### query: principal_diretor(Diretor)
+### query: principal_diretor(Diretor).
 ### query: setof(T, variancia_temporada(T, Variancia), Lista).
