@@ -69,7 +69,7 @@ Isso gerará o arquivo `prolog/friends.pl` com todos os predicados.
 1. Acesse [SWISH - SWI-Prolog Web IDE](https://swish.swi-prolog.org/)
 2. Clique em **"Program"**
 3. Na área **Program**, copie e cole o conteúdo de `prolog/friends.pl` e logo depois o conteúdo de `prolog/queries.pl` (que são nossas sentenças/regras)
-5. As últimas 5 linhas de `prolog/queries.pl` tratam-se das queries que podem ser usadas para responder as perguntas. Organizei assim para testar com maior facilidade.
+5. As últimas 5 linhas de `prolog/queries.pl` tratam-se das queries que podem ser usadas para responder as perguntas. Organizei assim para testar com maior facilidade, mas é necessário tirar essas queries comentadas para não dar erro ao testar no SWISH!
 
 ### Passo 3: Executar as Queries
 
